@@ -3,6 +3,7 @@
 ## Background
 
 Visit site by following this link:
+https://omorales12.github.io/Web-Design-Challenge/
 
 
 ## Background
