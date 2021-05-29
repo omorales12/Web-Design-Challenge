@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-## Background
+## View Site
 
 Visit site by following this link:
 https://omorales12.github.io/Web-Design-Challenge/
